@@ -1,7 +1,7 @@
 name: flutter_box_transform
 description: "A new Flutter project."
 version: 0.0.1
-homepage: ""
+homepage: "https://github.com/4u1514g/flutter_box_transform.git"
 
 environment:
   sdk: ^3.5.3
